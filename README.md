@@ -56,8 +56,8 @@ Actualmente el sistema:
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
+- CRUZ CHINGUEL IVAN
+- CAJO MANAYAY FERNANDO JOSE
 - opencv-python
 numpy
 {
