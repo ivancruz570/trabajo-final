@@ -1,16 +1,3 @@
-Automatic-OMR/
-│
-├── images/
-│   └── examen.jpg
-│
-├── results/
-│
-├── main.py
-├── omr.py
-├── utils.py
-├── respuestas.json
-├── requirements.txt
-└── README.md
 # Sistema de Calificación Automática de Exámenes de Opción Múltiple
 
 ## Descripción
