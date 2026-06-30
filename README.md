@@ -61,6 +61,7 @@ from omr import detectar_circulos
 from utils import detectar_respuestas
 
 # Cargar imagen
+<img width="938" height="643" alt="examen" src="https://github.com/user-attachments/assets/e4c61a04-ac12-4b28-81c4-b6a3159b4ed1" />
 
 imagen = cv2.imread("images/examen.jpg")
 
