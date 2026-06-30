@@ -76,6 +76,7 @@ circulos = detectar_circulos(imagen)
 print("Número de círculos encontrados:", len(circulos))
 
 # Dibujar círculos
+<img width="1184" height="424" alt="Captura de pantalla (1859)" src="https://github.com/user-attachments/assets/ed87dc61-9ced-4877-994b-315933abfc0f" />
 
 for (x,y,r) in circulos:
 
@@ -83,6 +84,7 @@ for (x,y,r) in circulos:
     cv2.circle(imagen,(x,y),2,(0,0,255),3)
 
 # Detectar respuestas
+
 
 respuestas = detectar_respuestas(imagen,circulos)
 
