@@ -29,7 +29,7 @@ utils.py
 
 ## Estado del proyecto
 
-Avance del 50%.
+
 
 Actualmente el sistema:
 
