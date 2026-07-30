@@ -27,13 +27,7 @@ for (x,y,r) in circulos:
 
 respuestas = detectar_respuestas(imagen,circulos)
 
-print()
-
-print("Resultados")
-
-for r in respuestas:
-
-    print(r)
+mostrar_resultados(respuestas)
 
 cv2.imshow("Deteccion",imagen)
 
