@@ -16,14 +16,14 @@ def detectar_circulos(imagen):
 
     # Detectar círculos
     circulos = cv2.HoughCircles(
-        gris,
+         gris,
         cv2.HOUGH_GRADIENT,
-        dp=1.2,
-        minDist=25,
-        param1=100
-        param2=30
-        minRadius=10,
-        maxRadius=30
+        dp=1,
+        minDist=20,
+        param1=20,
+        param2=35,
+        minRadius=8,
+        maxRadius=20,
     )
 
     lista = []
